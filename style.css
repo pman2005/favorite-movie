@@ -2,18 +2,16 @@ body{background-color:;
     color ;}
 
 header{
-background-color: darkblue;
-color: yellow ;
+background-color:rgb(5, 5, 80);
+color: goldenrod ;
+font-size: 50px
 }
 
 nav{
     background-color:;
 }    
 
-h2{
-    color:;
 
-}
 
 dt{
     color: ;
